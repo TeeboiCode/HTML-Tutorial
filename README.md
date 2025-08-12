@@ -4,7 +4,7 @@ Welcome to the Techlink project. This repository contains resources and examples
 
 ## Live Preview
 
-Explore the project live: [Techlink.com](https://techlink-ten.vercel.app/)
+Explore the project live: [Techlink](https://techlink-ten.vercel.app/)
 
 ## Features
 
