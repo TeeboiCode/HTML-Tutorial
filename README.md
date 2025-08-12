@@ -1,10 +1,10 @@
 # Techlink
 
-Welcome to the Techlink HTML Tutorial project. This repository contains resources and examples to help you learn and master HTML fundamentals.
+Welcome to the Techlink project. This repository contains resources and examples to help you learn and master HTML fundamentals.
 
 ## Live Preview
 
-Explore the project live: [Techlink.com](https://techlink.com)
+Explore the project live: [Techlink.com](https://techlink-ten.vercel.app/)
 
 ## Features
 
